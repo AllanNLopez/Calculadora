@@ -10,6 +10,9 @@ namespace Calculadora
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Este es un mensaje..");
+
+            Console.ReadLine();
         }
     }
 }
